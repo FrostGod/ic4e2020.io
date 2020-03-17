@@ -36,7 +36,11 @@
 			    <div class="container">
 			    	<div class="align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/Capture.PNG" width="196px" height="100px" alt="" title="" /></a>
+				        <a href="index.html"><img src="img/Capture.PNG" style="width:196px;height:100px" @media (max-width: 600px) {
+  img {
+    width: 100%; // Override width to show only one image in a row on smaller screens
+  }
+"/></a>
 				      </div><br>
 				      <bR>
 				      <nav id="nav-menu-container">
