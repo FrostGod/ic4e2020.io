@@ -104,7 +104,7 @@
   /* Center and scale the image nicely */
   
 	background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
-    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../img/reg.jpg");
+    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../img/registration.jpg");
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -157,7 +157,7 @@
   /* Center and scale the image nicely */
   
 	background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
-    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../img/keydate.png");
+    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../img/keydates.jpg");
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
