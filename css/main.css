@@ -374,3 +374,42 @@
   display: table;
   clear: both;
 }
+
+
+
+.wrapper:before,
+.wrapper:after {
+  content: " ";
+  display: table;
+}
+
+.wrapper:after {
+  clear: both;
+}
+
+.wrapper .box {
+  margin: 10px auto;
+  padding: 0;
+  position: relative;
+  float: left;
+  width: 33.33333%;
+  height: 102%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.box .content {
+	font-size: 16px;
+  font-family:
+  font-weight:600;
+  color:#222;
+  margin: 40px;
+  padding: 10px;
+  min-height: 300px;
+  background-color: rgba(0, 123, 0, .2);
+  box-sizing: border-box;
+word-spacing: inherit;
+	line-height: 1.6
+}
+
+
