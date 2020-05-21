@@ -375,16 +375,6 @@
   clear: both;
 }
 
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
-* { box-sizing: border-box; }
-
-body { 
-  font-family: 'Open Sans', sans-serif;
-  color: #666;
-}
-
 /* STRUCTURE */
 
 .wrapper {
