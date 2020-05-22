@@ -361,7 +361,7 @@
 
 .wrapper {
 	padding: 5px;
-	max-width: 960px;
+	max-width: 100%;
 	width: 95%;
 	margin: 10px auto;
 }
