@@ -411,4 +411,19 @@
 	}
 }
 
+.three-column-images
+{
+  background:white;
+}
+
+.three-column-images .row
+{
+  text-align:center;
+}
+.three-column-images img
+{
+  margin-bottom:10px;
+  margin-top:20px;
+	
+}
 
